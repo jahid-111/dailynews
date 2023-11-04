@@ -1,0 +1,55 @@
+/* -
+-
+-
+-
+-
+-
+-
+-
+-GOOGLE FONT  */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.head1-name {
+    color: rgb(255, 177, 20);
+}
+
+.head2-name {
+    color: rgb(19, 157, 226);
+}
+
+.text-nav {
+    font: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bg-head {
+    background-color: rgb(55, 35, 35);
+}
+
+.bg-nav {
+    background-color: rgb(218, 34, 34);
+
+}
+
+.nav-text :hover {
+    background-color: rgb(53, 63, 63);
+}
