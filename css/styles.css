@@ -17,11 +17,12 @@ body {
 }
 
 .head1-name {
-    color: rgb(255, 177, 20);
+    color: rgb(19, 157, 226);
 }
 
 .head2-name {
-    color: rgb(19, 157, 226);
+
+    color: rgb(255, 177, 20);
 }
 
 .text-nav {
