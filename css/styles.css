@@ -29,19 +29,6 @@ body {
     font: 16px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .bg-head {
     background-color: rgb(55, 35, 35);
 }
@@ -53,4 +40,8 @@ body {
 
 .nav-text :hover {
     background-color: rgb(53, 63, 63);
+}
+
+.bg-image {
+    background-image: center;
 }
