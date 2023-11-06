@@ -45,3 +45,7 @@ body {
 .bg-image {
     background-image: center;
 }
+
+button :hover {
+    background-color: rgb(53, 63, 63);
+}
